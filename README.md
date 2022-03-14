@@ -1,10 +1,10 @@
-Welcome to your new dbt project!
+This is my DBT-Snowflake project which creates models, macros, tests and more! I will keep updating this project as I go. Feel free to fork if needed. 
 
-### Using the starter project
-
+### Basic commands we should all know 
 Try running the following commands:
 - dbt run
 - dbt test
+- dbt docs generate
 
 
 ### Resources:
