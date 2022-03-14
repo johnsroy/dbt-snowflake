@@ -1,4 +1,4 @@
-This is my DBT-Snowflake project which creates models, macros, tests and more! I will keep updating this project as I go. Feel free to fork if needed. 
+This is my DBT-Snowflake project which creates models, macros, tests and more! I will keep updating this project as I go. Feel free to fork if needed. I am using the free individual DBT cloud account. 
 
 ### Basic commands we should all know 
 Try running the following commands:
